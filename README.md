@@ -1,4 +1,4 @@
-# Tasky - Professional Readme
+# Tasky 
 
 ## Overview
 
